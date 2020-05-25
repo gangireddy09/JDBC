@@ -1,2 +1,1 @@
 # simpleJDBC
-To check the
