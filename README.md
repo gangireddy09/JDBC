@@ -1,2 +1,2 @@
 # simpleJDBC
-To check the commit changes 
+To check the commit
