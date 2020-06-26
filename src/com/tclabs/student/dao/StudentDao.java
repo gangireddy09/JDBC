@@ -30,7 +30,7 @@ public class StudentDao {
 		st.setString(8, dto.getRegisteredNo());
 		
 		int result = st.executeUpdate();
-		System.out.println(result + " row is inserted");
+		System.out.println(result + " Row is Inserted");
 		return result;
 		}
 	
