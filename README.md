@@ -1,2 +1,2 @@
 # simpleJDBC
-Change 1
+My First Project
